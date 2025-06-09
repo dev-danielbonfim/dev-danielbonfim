@@ -17,7 +17,7 @@ Gosto de aprender com calma, mas aplico com foco.
 
 ## ⚙️ Tecnologias que uso ou estou estudando
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,php,mysql,git,github,vscode" />
 
 ---
 
