@@ -1,5 +1,5 @@
-<h1 align="center">Dan aqui 👋</h1>
-<p align="center">Construindo coisas reais com código. Um passo de cada vez.</p>
+<h1 align="center">Daniel Bonfim</h1>
+<p align="center">Construindo coisas reais com código.</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Menos+teoria%2C+mais+c%C3%B3digo.;Aprender+fazendo+%3E+assistir+cursos.;Evoluindo+todo+dia." />
@@ -11,10 +11,10 @@
 
 Sou o Dan.
 
-Não fico acumulando curso — eu construo.  
+Não fico acumulando curso, eu construo.  
 Prefiro entender o porquê das coisas do que só fazer funcionar.  
 
-Tô na fase mais importante: **errando, ajustando e evoluindo rápido**.
+Estou na fase mais importante: **errando, ajustando e evoluindo rápido**.
 
 ---
 
@@ -27,9 +27,9 @@ Tô na fase mais importante: **errando, ajustando e evoluindo rápido**.
 ## 🚀 O que tô fazendo agora
 
 - Melhorando meu nível em **UI/UX na prática**
-- Aprofundando **JavaScript de verdade (não só o básico)**
+- Aprofundando **JavaScript**
 - Evoluindo com **React e Next.js**
-- Construindo projetos reais (não projeto fake de curso)
+- Construindo projetos reais
 
 ---
 
@@ -49,14 +49,6 @@ Tô na fase mais importante: **errando, ajustando e evoluindo rápido**.
 
 ---
 
-## 🌱 Pra onde eu tô indo
-
-- Portfólio com projetos que realmente vendem
-- Parcerias com gente que executa (sem enrolação)
-- Open source com propósito (não só por hype)
-
----
-
 ## 💬 Bora trocar ideia
 
 📧 dev.danielbonfim@gmail.com  
@@ -64,4 +56,4 @@ Tô na fase mais importante: **errando, ajustando e evoluindo rápido**.
 
 ---
 
-<p align="center">Sem hype. Só código, consistência e evolução.</p>
+<p align="center">Só código, consistência e evolução.</p>
