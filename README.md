@@ -2,7 +2,7 @@
 <p align="center">Construindo coisas reais com código.</p>
 
 <div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&width=435&lines=Aprendendo+na+Pr%C3%A1tica." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&width=435&lines=Aprendendo+na+Pr%C3%A1tica." alt="Typing SVG" />
 </div>
 
 ---
