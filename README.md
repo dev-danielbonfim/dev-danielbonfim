@@ -2,7 +2,7 @@
 <p align="center">Construindo coisas reais com código.</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Menos+teoria%2C+mais+c%C3%B3digo.;Aprender+fazendo+%3E+assistir+cursos.;Evoluindo+todo+dia." />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Menos+teoria%2C+mais+c%C3%B3digo.;Aprender+fazendo+%3E+assistir+cursos.;Evoluindo+todo+dia.](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&width=435&lines=Aprendendo+na+Pr%C3%A1tica.)](https://git.io/typing-svg)" />
 </div>
 
 ---
