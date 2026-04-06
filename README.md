@@ -1,56 +1,67 @@
-<h1 align="center">Falaaa, eu sou o Dan 👋</h1>
-<p align="center">Dev em formação | Foco total em construir, aprender e evoluir</p>
+<h1 align="center">Dan aqui 👋</h1>
+<p align="center">Construindo coisas reais com código. Um passo de cada vez.</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Em+construção%2C+mas+já+com+intenção.;Aprendendo+e+codando+todos+os+dias." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Menos+teoria%2C+mais+c%C3%B3digo.;Aprender+fazendo+%3E+assistir+cursos.;Evoluindo+todo+dia." />
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Quem eu sou
 
-Sou o Dan. Ainda não sou especialista — e é exatamente isso que me mantém em movimento.  
-Faço questão de entender cada linha de código que escrevo.  
-Gosto de aprender com calma, mas aplico com foco.
+Sou o Dan.
 
----
+Não fico acumulando curso — eu construo.  
+Prefiro entender o porquê das coisas do que só fazer funcionar.  
 
-## ⚙️ Tecnologias que uso ou estou estudando
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,php,mysql,git,github,vscode" />
+Tô na fase mais importante: **errando, ajustando e evoluindo rápido**.
 
 ---
 
-## 🚀 Em progresso
+## ⚙️ Stack (usando no dia a dia)
 
-- 🎨 Melhorando minha UI/UX
-- 🧠 Aprofundando meus conhecimentos em JavaScript moderno
-- ⚛️ Estudando React.js
-- 🔧 Em constante prática com projetos reais e soluções sob medida para clientes
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,mysql,git" />
 
 ---
 
-## 🧩 Projetos entregues
+## 🚀 O que tô fazendo agora
 
-- 🎨 [Bienal do Lixo](https://bienaldolixo.com.br/) – Evento de Arte Sustentável
-- 🌐 [Fava Indústria](https://fava.com.br/) – Instrumentos hospitalares e odontológicos
-- 🧹 [Essencial Serviços](https://essencialsistema.com.br/) – Limpeza técnica e terceirização de serviços
-- 🏢 [Dissudes Residence](https://dsdresidence.com.br/) – Empresa de Logística
-
-
-## 🌱 Próximos passos
-
-- Criar portfólio real com cases de verdade
-- Me conectar com devs e colabs que fazem acontecer
-- Contribuir com projetos open source que façam sentido
+- Melhorando meu nível em **UI/UX na prática**
+- Aprofundando **JavaScript de verdade (não só o básico)**
+- Evoluindo com **React e Next.js**
+- Construindo projetos reais (não projeto fake de curso)
 
 ---
 
-## 💬 Me chama pra trocar ideia!
+## 🧩 Projetos no mundo real
 
-📧 Email: [dev.danielbonfim@gmail.com](mailto:dev.danielbonfim@gmail.com)  
-🔗 LinkedIn: [[linkedin.com/in/daniel-bonfim](https://www.linkedin.com/in/daniel-bonfim-87167b35a/)]
+- 🎨 [Bienal do Lixo](https://bienaldolixo.com.br/)  
+  Landing page para evento de arte sustentável
+
+- 🌐 [Fava Indústria](https://fava.com.br/)  
+  Site institucional para indústria (foco B2B)
+
+- 🧹 [Essencial Serviços](https://essencialsistema.com.br/)  
+  Presença digital para empresa de terceirização
+
+- 🏢 [Dissudes Residence](https://dsdresidence.com.br/)  
+  Site para empresa de logística
 
 ---
 
-<p align="center">🔥 Em evolução silenciosa. Obrigado por passar por aqui.</p>
+## 🌱 Pra onde eu tô indo
+
+- Portfólio com projetos que realmente vendem
+- Parcerias com gente que executa (sem enrolação)
+- Open source com propósito (não só por hype)
+
+---
+
+## 💬 Bora trocar ideia
+
+📧 dev.danielbonfim@gmail.com  
+🔗 https://www.linkedin.com/in/daniel-bonfim-87167b35a/
+
+---
+
+<p align="center">Sem hype. Só código, consistência e evolução.</p>
